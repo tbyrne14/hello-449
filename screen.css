@@ -1,0 +1,12 @@
+html {
+    background: rgb(255, 255, 255);
+}
+
+body {
+    margin: 200px;
+    padding:200px;
+}
+
+.main-logo {
+    display: flex;
+}
