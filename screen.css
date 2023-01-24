@@ -9,4 +9,6 @@ body {
 
 .main-logo {
     display: flex;
+    height: 20px;
+    width: 150px;
 }
