@@ -8,6 +8,6 @@ body {
 }
 
 .main-logo {
-    display: flex;
-    height: 5%;
+    width: 5%;
+    height: 2.5%;
 }
