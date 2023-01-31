@@ -1,39 +1,8 @@
-html {
-    background: rgb(255, 255, 255);
-}
-
 body {
-    margin: 200px;
-    padding:200px;
+  background: #fff;
+  font-family: Helvetica, sans-serif;
 }
 
-.main-logo {
-    border-radius: 8px;
+img {
+  width: 100%;
 }
-
-.main-para {
-    display:flex;
-    flex-direction: row;
-    align-items: baseline;
-    margin:10px;
-    padding:20px;
-    justify-content: space-evenly;
-    gap: 30px;
-    align-items: stretch;
-    background: white; 
-  }
-  
-  .main-page-2 {
-    display:flex;
-    padding:20px;
-    background:rgb(196, 194, 194);
-    border-radius:8px;
-  }
-  
-  .main-page-3 {
-    display:flex;
-    padding:20px;
-    background:rgb(196, 194, 194);
-    border-radius:8px;
-  }
-  
